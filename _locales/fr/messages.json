@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension shows current price and price change graph for Ethereum(ETH)"
+   },
+   "name": {
+      "message": "Ethereum(ETH) - price graph"
+   },
+   "shortname": {
+      "message": "Ethereum(ETH) - price graph"
+   },
+   "title": {
+      "message": "Ethereum(ETH) - price graph"
+   }
+}

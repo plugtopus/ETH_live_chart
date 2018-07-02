@@ -4,5 +4,11 @@
    },
    "name": {
       "message": "Ethereum(ETH) - график цен"
+   },
+   "shortname": {
+      "message": "Ethereum(ETH) - график цен"
+   },
+   "title": {
+      "message": "Ethereum(ETH) - график цен"
    }
 }
